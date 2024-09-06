@@ -1,0 +1,24 @@
+*{
+    align-content: center;
+    text-align: center;
+}
+a{
+    height: 200px;
+    width: 200px;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+h1 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0B2F9F;
+    
+}
+html {
+    background-color: #C7FFD8;
+}
+h2 {
+    color : #0B2F9F
+}
